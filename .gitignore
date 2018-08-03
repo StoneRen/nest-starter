@@ -18,13 +18,14 @@ node_modules/*
 .vscode/*
 npm-debug.log
 yarn.lock
+package-lock.json
 
 # Vim swap files
 *.sw*
 
-# debug 
+# debug
 *debug/
 dist/
 
-# sails 
+# sails
 .tmp/
