@@ -1,0 +1,28 @@
+{
+  "name": "nest-companies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^5.1.0",
+    "@nestjs/core": "^5.1.0",
+    "@nestjs/microservices": "^5.1.0",
+    "@nestjs/websockets": "^5.1.0",
+    "body-parser": "^1.18.3",
+    "reflect-metadata": "^0.1.12",
+    "rxjs": "^6.2.2",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/node": "^10.5.3",
+    "nodemon": "^1.18.3",
+    "ts-node": "^7.0.0"
+  }
+}

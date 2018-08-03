@@ -1,0 +1,19 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "rules": {
+    // "no-console": {
+    //   "severity": "warning",
+    //   "options": ["debug", "info", "log", "time", "timeEnd", "trace"]
+    // },
+    "object-literal-sort-keys": false,
+    // 是否带分号gg
+    "semicolon": [true, "never"],
+    // 单引号
+    "quotemark": [true, "single"],
+    // 开启实验装饰器
+    "experimentalDeorators": true
+  },
+  "rulesDirectory": []
+}
